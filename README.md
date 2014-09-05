@@ -5,5 +5,6 @@ Current Work:
  - Mars 
 
 Future Works:
- - Venus
- - Jupter
+ - Saturn
+ - Jupiter
+
